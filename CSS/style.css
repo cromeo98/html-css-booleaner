@@ -2,7 +2,7 @@
 header{
     background-color: #4285F4;
     background-image: url(../img/pattern.png);
-    background-size: cover;
+    background-size: contain;
     height: 350px;
 }
 
@@ -31,3 +31,12 @@ header{
     font-size: 9px;
 }
 /* fine sezione foto */
+
+th{
+    background-color: blue;
+    width: 300px;
+}
+
+td{
+    height: 100px;
+}
