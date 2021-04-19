@@ -59,3 +59,26 @@ td{
 }
 /* fine formattazione table */
 /* fine sezione articolo */
+
+/* inizio formattazione footer */
+
+h4{
+    color: grey;
+}
+
+.collegamento{
+    font-weight: 800;
+    color: white;
+    background-size: 200px 200px;
+    width: 200px;
+    height: 200px;
+}
+
+.display{
+    background-image: url(../img/monitor.jpg);
+}
+
+.grafici{
+    background-image: url(../img/graph.jpg);
+}
+/* fine formattazione footer */
