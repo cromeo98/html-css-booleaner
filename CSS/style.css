@@ -2,16 +2,20 @@
 header{
     background-color: #4285F4;
     background-image: url(../img/pattern.png);
-    background-size: contain;
-    height: 350px;
+    background-size: 275px;
+    height: 65px;
 }
 
 #logo{
-    width: 300px;
+    width: 150px;
 }
 /* fine da terminare */
 
 /* inizio formattazione sezione titolo */
+
+h1{
+    font-size: 27px;
+}
 
 .autore{
     color:grey;
@@ -32,11 +36,18 @@ header{
 }
 /* fine sezione foto */
 
+/* inizio formattazione table */
 th{
-    background-color: blue;
+    background-color:#4285F4;
     width: 300px;
+    text-align: left;
+    color: white;
 }
 
 td{
     height: 100px;
+}
+
+.odd{
+    background-color: rgb(137, 202, 243);
 }
