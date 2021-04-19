@@ -1,3 +1,4 @@
+/* da terminare */
 header{
     background-color: #4285F4;
     background-image: url(../img/pattern.png);
@@ -7,4 +8,19 @@ header{
 
 #logo{
     width: 300px;
+}
+/* fine da terminare */
+
+/* inizio formattazione sezione titolo */
+
+.autore{
+    color:grey;
+}
+
+.data{
+    font-size: 10px;  
+}
+
+#nome{
+    color:#4285F4;
 }
