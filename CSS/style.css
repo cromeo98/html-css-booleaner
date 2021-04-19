@@ -36,6 +36,12 @@ h1{
 }
 /* fine sezione foto */
 
+/* inizio sezione articolo */
+
+.yellow{
+    background-color: yellow;
+}
+
 /* inizio formattazione table */
 th{
     background-color:#4285F4;
@@ -51,3 +57,5 @@ td{
 .odd{
     background-color: rgb(137, 202, 243);
 }
+/* fine formattazione table */
+/* fine sezione articolo */
